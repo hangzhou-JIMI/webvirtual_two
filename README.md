@@ -1,4 +1,4 @@
 webvirtual_two
 ==============
 
-webvirtual_two
+摄像机在地图上的移动与缩放。类似海盗奇兵的的摄像头运动。
